@@ -99,8 +99,6 @@ y_prednew = predict(theta, xnew)
 
 print("Predicted Result:", y_prednew)
 
-Developed by: B.SASIREKHA
-RegisterNumber: 212225040388
 
 ```
 
