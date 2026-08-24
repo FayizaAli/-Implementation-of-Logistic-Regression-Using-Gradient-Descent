@@ -7,10 +7,14 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. open the jupitor/Google collab
+## Algorithm:
+
+1.open the jupitor/Google collab
+
 2.enter the code
+
 3.run the program
+
 4.hence the program successfully completed
 
    
